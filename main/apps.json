@@ -1,0 +1,13 @@
+{
+  "name": "Cookbook",
+  "short-desc": "Painless recipe storage and cooking",
+  "long-desc":"This tool allows you to store, read, and use recipes that you learn about. No matter how complex a recipe is, cooking it will be a snap with our step-by-step recipe tool! You can store an ingredients list and a list of steps. Later, when you decide to cook the recipe, our step-by-step tool will let you stay on-track with handy measuring guides and built-in timers!",
+  "version": "0.0.0",
+  "template-type":"family",
+  "prices":{
+    "SubLevel":2,
+    "Custom":"3.99"
+  },
+  "use-acl":true,
+  "restricted-dev-mode":true
+}
